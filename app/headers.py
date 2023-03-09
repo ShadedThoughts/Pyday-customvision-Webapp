@@ -6,10 +6,10 @@ from app import app
 
 
 
-prediction_key = "21dcf849cf844333a0c1f45f6e5937aa"
+prediction_key = "696c08249fa941b5bb15aa3b3abd75a7"
 publish_iteration_name = "classifyModel"
-ENDPOINT = "https://testcvp.cognitiveservices.azure.com/"
-projectId = "e9d53526-fb02-4522-8c89-74d65fa3a624"
+ENDPOINT = "https://uohpyday-prediction.cognitiveservices.azure.com/"
+projectId = "a3f86974-e467-494a-8f7c-c988f092ae0f"
 # prediction_key = "your-prediction key"
 # publish_iteration_name = "classifyModel"
 # ENDPOINT = "your-endpoint"
